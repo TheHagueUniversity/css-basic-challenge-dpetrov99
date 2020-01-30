@@ -30,7 +30,7 @@ img {
   width: 300px;
 }
 a {
-  color: #FFE66D;
+  color: #E8A87C;
 }
 a:hover {
   text-decoration: none;
@@ -74,7 +74,7 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
+  background: #41B3A3;
   color: #F7FFF7;
 }
 
@@ -109,7 +109,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: #C38D9E;
 }
 
 
@@ -121,6 +121,7 @@ header {
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
+
 }
 .education p {
   width: 60%;
@@ -130,7 +131,7 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #E27D60;
   color: #F7FFF7;
 }
 .contact-list {
